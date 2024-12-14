@@ -1,6 +1,6 @@
 attack_technique: T1082
 - name: Discover OS Product Name via Registry
-  description: |-
+  description: |
     Identify the Operating System Product Name via registry with the reg.exe command.
     Upon execution, the device's OS Product Name will be displayed.
   supported_platforms:
@@ -11,7 +11,7 @@ attack_technique: T1082
     name: command_prompt
     elevation_required: false
 - name: Discover OS Build Number via Registry
-  description: |-
+  description: |
     Identify the Operating System Build Number via registry with the reg.exe command.
     Upon execution, the device's OS Build Number will be displayed.
   supported_platforms:
