@@ -1,6 +1,6 @@
 attack_technique: T1124
 - name: Discover System Time Zone via Registry
-  description: |-
+  description: |
     Identify the Operating System Time Zone via registry with the reg.exe command.
     Upon execution, the device's Time Zone will be shown.
   supported_platforms:
