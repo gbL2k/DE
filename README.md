@@ -1,3 +1,3 @@
 # DE
 
-I store my work/contributions related to Detection Engineering here.
+Open source contributions related to Detection Engineering.
